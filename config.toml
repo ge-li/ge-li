@@ -3,7 +3,7 @@ theme = "hugo-apero"
 languageCode = "en"
 title = "Personal website of Li Ge"
 author = "Li Ge"
-copyright = "" # set to override the auto generated copyright using org info and now year
+copyright = "Last Updated: 2021/09/13" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = ""
 metaDataFormat = "yaml"
@@ -28,12 +28,12 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "University of Wisconsin-Madison"
+  orgName = "University of Wisconsin–Madison"
   orgLocal = "Madison, WI"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["Publications"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -110,10 +110,15 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
+    name = "Publications"
+    title = "Publications"
+    url = "/publications/"
     weight = 2
+#  [[menu.header]]
+#    name = "Blog"
+#    title = "Blog"
+#    url = "/blog/"
+#    weight = 2
   [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
