@@ -1,6 +1,6 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Li Ge"
+author: "Li Ge | 葛 立"
 role: "PhD Student @ UW—Madison"
 avatar_shape: circle # circle, square, rounded
 show_social_links: true # specify social accounts in site config
