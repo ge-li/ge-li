@@ -1,8 +1,6 @@
 ---
 title: Publication
-description: |
-  asdasd
-  asdsa
+description: 
 date: 2021-09-14T06:39:04+0000
 author: ""
 show_post_thumbnail: false
