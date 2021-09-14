@@ -1,6 +1,6 @@
 ---
 title: "Li Ge | 葛 立"
-subtitle: "Ph.D. Student @ UW-Madison"
+subtitle: "PhD Student @ UW-Madison"
 description: "Yes, that's my cat Yuan Bao."
 date: 
 images:
