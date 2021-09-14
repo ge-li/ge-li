@@ -1,7 +1,7 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Personal website of Li Ge"
+title = "Li Ge"
 author = "Li Ge"
 copyright = "Last Updated: 2021-09-13" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -33,7 +33,7 @@ enableEmoji = true
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["publications", "talks"]
+  mainSections = []
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -106,30 +106,25 @@ enableEmoji = true
 [menu]
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About Me"
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Publications"
-    title = "Publications"
-    url = "/publications/"
+    name = "Publication"
+    title = "Publication"
+    url = "/publication/"
     weight = 2
-#  [[menu.header]]
-#    name = "Blog"
-#    title = "Blog"
-#    url = "/blog/"
-#    weight = 2
   [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
+    name = "Blog"
+    title = "Blog"
+    url = "/blog/"
     weight = 4
-    
+
   # Configure footer  
   #[[menu.footer]]
   #  name = "License"
