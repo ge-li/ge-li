@@ -10,9 +10,9 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: Hello, I hope this helps!
+  title: Hello! Thank you for stopping by!
   description: |
-    Let me know if you have any questions. I'd love to discuss.
+    Let me know if you have any questions. I'm always happy to discuss.
   author: Li Ge
   text_link_label: Find My Contact
   text_link_url: /about/
