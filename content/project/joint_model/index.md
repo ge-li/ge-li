@@ -1,7 +1,7 @@
 ---
-title: "Kidney Transplantation"
-subtitle: "Building Bayesian joint models to assess the impact of calcineurin inhibitors variability on the long-term survival outcomes for patients with kidney transplantation."
-excerpt: "We are building Bayesian joint models to assess the impact of calcineurin inhibitors variability on the long-term survival outcomes for patients with kidney transplantation."
+title: "Joint Modeling of Biomarker History Data and Survival Events"
+subtitle: "I built a Bayesian joint model to demonstrate the impact of calcineurin inhibitors variability on the long-term survival outcomes for patients with kidney transplantation."
+excerpt: "I built a Bayesian joint model to demonstrate the impact of calcineurin inhibitors variability on the long-term survival outcomes for patients with kidney transplantation."
 date: 2020-08-23
 author: "Li Ge"
 draft: false
