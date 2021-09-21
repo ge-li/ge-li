@@ -1,7 +1,7 @@
 ---
-title: "Correction for GWAS Sample-Overlapping"
-subtitle: "We developed a robust estimation method for the genetic correlation between phenotypes and polygenic risk scores that corrects for sample-overlapping using only GWAS summary statistics."
-excerpt: "We developed a robust estimation method for the genetic correlation between phenotypes and polygenic risk scores that corrects for sample-overlapping using only GWAS summary statistics."
+title: "Instrumental Variable Genetic Risk Prediction"
+subtitle: "I developed a new method to estimate the genetic correlation between key phenotypes and polygenic risk scores. This approach is both robust and privacy-protecting - it can correct for sample overlap and only requires GWAS summary-level statistics as input."
+excerpt: "I developed a new method to estimate the genetic correlation between key phenotypes and polygenic risk scores. This approach is both robust and privacy-protecting - it can correct for sample overlap and only requires GWAS summary-level statistics as input."
 date: 2019-08-20
 author: "Li Ge"
 draft: false
@@ -29,7 +29,7 @@ Rotation advisor: [Qiongshi Lu, PhD](https://qlu-lab.org/).
 
 ### Results 
 
-* Our proposed method can robustly estimate R^2 between PRS and another phenotype using only GWAS summary statistics.
+* I developed a new method to estimate the genetic correlation between key phenotypes and polygenic risk scores. This approach is both robust and privacy-protecting - it can correct for sample overlap and only requires GWAS summary-level statistics as input.
 
 ![Simulation Result](simulation_result.png)
 
