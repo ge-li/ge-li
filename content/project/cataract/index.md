@@ -1,7 +1,7 @@
 ---
-title: "Cataract Surgery"
+title: "Computer Vision Analysis of Surgical Footage"
 subtitle: "Automated real-time monitoring and assessment of cataract surgical videos."
-excerpt: "In this project, we engineered *Mask R-CNN* to automate the real-time monitoring and assessment of cataract surgical videos."
+excerpt: "I engineered *Mask R-CNN* to automate the real-time monitoring and assessment of cataract surgery in collaboration with the Department of Ophthalmology and Visual Sciences. This model achieved outstanding performance in tracking the pupil and twelve different surgical tools."
 date: 2019-12-06
 author: "Li Ge"
 draft: false
@@ -45,7 +45,7 @@ In collaboration with: [Stephen K. Sauer, MD](https://www.uwhealth.org/providers
 
 ### Results
 
-* The trained Mask R-CNN model achieves outstanding performance detecting pupils.
+* The trained Mask R-CNN model achieves outstanding performance detecting pupils and twelve different surgical tools.
 * We are able to monitor important metrics such as pupil deviation and pupil magnification in real-time. 
 
 Pupil | mAP (IoU=0.50:0.95) | AP50 | AP75
