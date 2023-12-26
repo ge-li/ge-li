@@ -25,7 +25,7 @@ cascade:
 ---
 - <span style="color:#7f92c3;font-weight:bold">Ge L</span>, Mao L (2023+). Efficient semiparametric estimation of general causal estimands for compliers. In Preparation.
 
-- Ang Y, <span style="color:#7f92c3;font-weight:bold">Ge L</span> (2023+). On causal estimands involving cross-world potential outcomes. In Preparation.
+- Yu A, <span style="color:#7f92c3;font-weight:bold">Ge L</span> (2023+). On causal estimands involving cross-world potential outcomes. In Preparation.
 
 - <span style="color:#7f92c3;font-weight:bold">Ge L</span>, Mao L (2023+). Instrumental variable estimation in the complier probabilistic index model. In Preparation. <i class="fab fa-github"></i>[code](https://github.com/ge-li/complyr)
 
