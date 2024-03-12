@@ -23,13 +23,13 @@ cascade:
     text_link_url: "https://scholar.google.com/citations?user=TD1iG2YAAAAJ&hl=en"
     show_sidebar_adunit: false # show ad container
 ---
-- <span style="color:#7f92c3;font-weight:bold">Ge L</span>, Mao L (2023+). Efficient semiparametric estimation of general causal estimands for compliers. In Preparation.
+- <span style="color:#7f92c3;font-weight:bold">Ge L</span>, Mao L (2024+). Efficient semiparametric estimation of general causal estimands for compliers. *In Preparation*.
 
-- Yu A, <span style="color:#7f92c3;font-weight:bold">Ge L</span> (2023+). On causal estimands involving cross-world potential outcomes. In Preparation.
+- Yu A, <span style="color:#7f92c3;font-weight:bold">Ge L</span> (2024+). A covariance perspective on randomized interventional analogues of mediation estimands. *In Preparation. Selected for oral presentation at the 2024 American Causal Inference Conference.*
 
-- <span style="color:#7f92c3;font-weight:bold">Ge L</span>, Mao L (2023+). Instrumental variable estimation in the complier probabilistic index model. In Preparation. <i class="fab fa-github"></i>[code](https://github.com/ge-li/complyr)
+- <span style="color:#7f92c3;font-weight:bold">Ge L</span>, Mao L (2024+). Instrumental variable estimation in the complier probabilistic index model. *In Preparation*. <i class="fab fa-github"></i>[code](https://github.com/ge-li/complyr)
 
-- <span style="color:#7f92c3;font-weight:bold">Ge L</span>, Wang Z, Liu CC, Childress S, Wildfire J, Wu G (2023+). Assessing performance of central statistical monitoring methods by simulation. Submitted.
+- <span style="color:#7f92c3;font-weight:bold">Ge L</span>, Wang Z, Liu CC, Childress S, Wildfire J, Wu G (2024+). Assessing performance of central statistical monitoring methods by simulation. *Submitted*.
 
 - Wu G, Wildfire J, ..., <span style="color:#7f92c3;font-weight:bold">Ge L</span>, ..., Anderson J (2023). gsm: Good statistical monitoring. (R package). <i class="fab fa-github"></i>[code](https://github.com/gilead-biostats/gsm)
 
